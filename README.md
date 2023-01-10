@@ -4,10 +4,10 @@ Unofficial repository of training resources for the AWS Artificial Intelligennce
 
 
 
-# Deep Dive video series
+## Deep Dive video series
 This includes 2 sets of 5 one-hour videos, diving deeper on the basic functionality and the MLOps feautes of Amazon SageMaker. You will need an AWS account to access the videos, under Skills Builder. 
 
-## Amazon SageMaker basic functionality
+### Amazon SageMaker basic functionality
 Amazon SageMaker is a fully managed service to build, train, and deploy machine learning (ML) models for any use case with fully managed infrastructure, tools, and workflows. In this series, learn how to use Amazon SageMaker to support your end-to-end ML lifecycle, from data labeling to model deployment. Understand the core functionality of the service, how Amazon SageMaker works under the hood, and how to develop your ML models in a cost-effective manner. This series is designed for data engineers, data scientists, and developers with prior experience in machine learning and basic knowledge of AWS services. 
 
 1. [**Data labelling and quick starts**](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/11791/aws-partnercast-amazon-sagemaker-deep-dive-series-data-labeling-and-quick-starts-technical) (i.e. Ground Truth, Canvas, Autopilot, JumpStart). Supervised machine learning algorithms rely on high-quality labelled training data. Learn how to take advantage of Amazon SageMaker Ground Truth, which offers pre-built and custom labelling workflows for any use case, various workforce options, automated labelling, and more. Once a labelled dataset is available, learn how to use Amazon SageMaker Canvas, Autopilot, and JumpStart, built to help data analysts and data scientists quickly train high-quality machine learning models using auto ML and open-source models.
@@ -21,7 +21,7 @@ Amazon SageMaker is a fully managed service to build, train, and deploy machine 
 5. [**Model deployment**](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/11792/aws-partnercast-amazon-sagemaker-deep-dive-series-model-deployment-technical) Determining the best deployment methods for your model requires balancing requirements for cost, availability, latency, reliability, and more. In this session, learn about the various deployment methods provided by Amazon SageMaker, the benefits of each method, and how to make the right choice using Inference Recommender.
 
 
-## MLOps with Amazon SageMaker
+### MLOps with Amazon SageMaker
 Amazon SageMaker is a managed ML platform that aims to streamline the whole, end-to-end Machine Learning (ML) lifecycle. In this series, we will dive deeper on the value proposition of Amazon SageMaker for Machine Learning Operations (MLOps). We start from the basics: what is MLOps, how it relates to DevOps and why we need it. We then gradually, dive deeper on different tools that Amazon SageMaker offers for MLOps, covering task orchestration, feature store, inference options, and MLOps architectural patterns. This series is designed for data engineers, data scientists, and developers with prior experience in Amazon SageMaker and basic knowledge of AWS services. 
 
 1. [**Introduction to MLOps**](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/12800/aws-partnercast-mlops-on-amazon-sagemaker-series-introduction-to-mlops-technical) This is an introductory session to MLOps, with zero assumptions about the viewers’ knowledge. In this session, you will learn about the concept of MLOps, how it relates to DevOps, as well as, the business benefits of adopting it. You will see MLOps from 3 different dimensions: people, processes and technology. Finally, you will learn about the MLOps Amazon SageMaker value proposition, and the tools that AWS offers in this domain. 
