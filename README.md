@@ -33,3 +33,13 @@ Amazon SageMaker is a managed ML platform that aims to streamline the whole, end
 4. [**MLOps architectures**](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/12901/aws-partnercast-mlops-on-amazon-sagemaker-series-mlops-architectures-technical) When it comes MLOps, there is no one universal implementation approach. In this session you will learn about different architectural patterns for MLOps, including single and multi-account approaches. You will also learn about SageMaker Feature Store, SageMaker Project and SageMaker Lineage Tracking, and how you can incorporate them into your MLOps architectures. 
 
 5. [**Inference**](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/12900/aws-partnercast-mlops-on-amazon-sagemaker-series-inference-technical) Deploying a model to production, is not the end of the ML lifecycle. Specific actions have to take place in order to ensure that the model stays relevant, and avoid different types of drift. In this session, you will learn how to use SageMaker Model Monitor, in order to ensure that your models will remain free of data/model/bias/explainability drift. You will also learn how to conduct A/B testing on different model versions, using Amazon SageMaker’s managed endpoints.
+
+
+## Full pre-recorded immersion days
+This is a series of full training events (~4h), focusing on specific topics, including presentations and hands-on labs. The PDF slide deck is also included. Each event has its own series of training notebooks (links included in the slide deck) which you can try at your own time.
+
+- **Amazon SageMaker basics**. [[recording](https://d2upiv8700olhh.cloudfront.net/Meeting-Recording-SageMaker-DataWrangler-Training-Basics(6-1-2023).mp4)][[slides](https://d2upiv8700olhh.cloudfront.net/ODS-SageMaker-basics(2023-01).pdf)]
+    - Introduction to Amazon SageMaker
+    - Amazon SageMaker Data Wrangler
+    - Training with Built-in algorithms (XGBoost)
+    - Inference options (real-time endpoints, batch transform)
