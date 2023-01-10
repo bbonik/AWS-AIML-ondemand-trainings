@@ -36,7 +36,7 @@ Amazon SageMaker is a managed ML platform that aims to streamline the whole, end
 
 
 ## Full pre-recorded immersion days
-This is a series of full training events (~4h), focusing on specific topics, including presentations and hands-on labs. The PDF slide deck is also included. Each event has its own series of training notebooks (links included in the slide deck) which you can try at your own time.
+This is a series of full training events, focusing on specific topics, including presentations and hands-on labs. The PDF slide deck is also included. Each event has its own series of training notebooks (links included in the slide deck) which you can try at your own time.
 
 - **Amazon SageMaker overview (~1.5h)**. [[recording](https://d2upiv8700olhh.cloudfront.net/ODS-SageMaker-overview(2022-04).mp4 )][[slides](https://d2upiv8700olhh.cloudfront.net/ODS-SageMaker-overview(2022-04).pdf)]
     - Introduction to most of the features of Amazon SageMaker
