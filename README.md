@@ -56,7 +56,7 @@ This is a series of full training events, focusing on specific topics, including
 
 
 ## AIML Business Jumpstart series
-AIML Business Jumpstart is a series of trainings aiming at helping with structuring and managing AIML projects, through the lens of a 3D customer engagement model (Discover-Design-Deliver). This includes sharing field experience on how to qualify AIML opportunities, how to prioritize them, and how to educate/guide customers. The program starts with an overview of AIML and gradually focuses on specific use-cases, e.g. Personalization, MLOps etc. You will need an AWS account to access the videos, under Skills Builder. 
+AIML Business Jumpstart is a series of 1-hour trainings aiming at helping with structuring and managing AIML projects, through the lens of a 3D customer engagement model (Discover-Design-Deliver). This includes sharing field experience on how to qualify AIML opportunities, how to prioritize them, and how to educate/guide customers. The program starts with an overview of AIML and gradually focuses on specific use-cases, e.g. Personalization, MLOps etc. *You will need an AWS account to access the videos, under Skills Builder*. 
 
 - **How to shape your AIML opportunities for success**. [[recording](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/12749/aws-partnercast-the-consultative-approach-way-to-attract-cultivate-mature-your-aiml-opportunities-business)]
 - **Identifying and Shaping Successful Personalization Engagements**. [[recording](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/13319/aws-partnercast-aiml-business-jumpstart-series-how-to-drive-a-successful-personalization-engagement-technical)]
