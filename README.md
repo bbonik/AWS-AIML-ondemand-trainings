@@ -5,7 +5,7 @@ Unofficial repository of training resources for the AWS Artificial Intelligennce
 
 
 ## Deep Dive video series
-This includes 2 sets of 5 one-hour videos, diving deeper on the basic functionality and the MLOps feautes of Amazon SageMaker. You will need an AWS account to access the videos, under Skills Builder. 
+This includes 2 sets of 5 one-hour videos, diving deeper on the basic functionality and the MLOps feautes of Amazon SageMaker. *You will need an AWS account to access the videos, under Skills Builder*. 
 
 ### Amazon SageMaker basic functionality
 Amazon SageMaker is a fully managed service to build, train, and deploy machine learning (ML) models for any use case with fully managed infrastructure, tools, and workflows. In this series, learn how to use Amazon SageMaker to support your end-to-end ML lifecycle, from data labeling to model deployment. Understand the core functionality of the service, how Amazon SageMaker works under the hood, and how to develop your ML models in a cost-effective manner. This series is designed for data engineers, data scientists, and developers with prior experience in machine learning and basic knowledge of AWS services. 
@@ -56,7 +56,7 @@ This is a series of full training events, focusing on specific topics, including
 
 
 ## AIML Business Jumpstart series
-AIML Business Jumpstart is a series of 1-hour trainings aiming at helping with structuring and managing AIML projects, through the lens of a 3D customer engagement model (Discover-Design-Deliver). This includes sharing field experience on how to qualify AIML opportunities, how to prioritize them, and how to educate/guide customers. The program starts with an overview of AIML and gradually focuses on specific use-cases, e.g. Personalization, MLOps etc. *You will need an AWS account to access the videos, under Skills Builder*. 
+AIML Business Jumpstart is a series of 1-hour trainings aiming at helping with structuring and managing AIML projects, through the lens of a **3D customer engagement model (Discover-Design-Deliver)**. This includes sharing field experience on how to qualify AIML opportunities, how to prioritize them, and how to educate/guide customers. The program starts with an overview of AIML and gradually focuses on specific use-cases, e.g. Personalization, MLOps etc. *You will need an AWS account to access the videos, under Skills Builder*. 
 
 - [How to shape your AIML opportunities for success](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/12749/aws-partnercast-the-consultative-approach-way-to-attract-cultivate-mature-your-aiml-opportunities-business)
 - [Identifying and Shaping Successful Personalization Engagements](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/13319/aws-partnercast-aiml-business-jumpstart-series-how-to-drive-a-successful-personalization-engagement-technical)
