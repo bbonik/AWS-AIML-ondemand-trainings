@@ -63,3 +63,18 @@ AIML Business Jumpstart is a series of 1-hour trainings aiming at helping with s
 - [How to Modernize & Automate your Customers Business Workflows With Intelligent Document Processing](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/13810/aws-partnercast-how-to-modernize-automate-customers-business-workflows-with-intelligent-document-processing-business)
 - [How to structure and scale Machine Learning Operations (MLOps) engagements](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/14483/aws-partnercast-how-to-structure-and-scale-your-mlops-engagements-business)
 
+
+## Demos
+Recordings and walkthroughs of AI/ML AWS services for particular use-cases.
+
+- **Low-Code/No-Code ML for FSI**. [[recording](https://d2upiv8700olhh.cloudfront.net/DEMO-Canvas-QuickSight-FSI-walkthrough.mp4)][[slides](https://d2upiv8700olhh.cloudfront.net/DEMO-Canvas-QuickSight-FSI-slides.pdf)]
+    - ML problem: predicting loan default.
+    - Using Amazon SageMaker Canvas for data preparation, model training and predictions.
+    - Using Amazon QuickSight for visualizing model predictions. 
+    
+- **Low-Code/No-Code ML for Retail**. [[recording](https://d2upiv8700olhh.cloudfront.net/DEMO-Canvas-Forecast-QuickSight-Retail-walkthrough.mp4)]]
+    - ML problem: timeseries forecasting.
+    - Using Amazon SageMaker Canvas for data preparation, model training and predictions.
+    - Using Amazon Forecast for timeseries forecasting. 
+    - Using Amazon QuickSight for visualizing model predictions. 
+    - Using AWS Step Functions for automation. 
