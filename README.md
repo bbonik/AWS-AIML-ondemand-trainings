@@ -72,7 +72,7 @@ Recordings and walkthroughs of AI/ML AWS services for particular use-cases.
     - Using Amazon SageMaker Canvas for data preparation, model training and predictions.
     - Using Amazon QuickSight for visualizing model predictions. 
     
-- **Low-Code/No-Code ML for Retail**. [[recording](https://d2upiv8700olhh.cloudfront.net/DEMO-Canvas-Forecast-QuickSight-Retail-walkthrough.mp4)]]
+- **Low-Code/No-Code ML for Retail**. [[recording](https://d2upiv8700olhh.cloudfront.net/DEMO-Canvas-Forecast-QuickSight-Retail-walkthrough.mp4)]
     - ML problem: timeseries forecasting.
     - Using Amazon SageMaker Canvas for data preparation, model training and predictions.
     - Using Amazon Forecast for timeseries forecasting. 
