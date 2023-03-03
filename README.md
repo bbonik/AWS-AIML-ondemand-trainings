@@ -2,9 +2,9 @@
 Unofficial repository of training resources for the AWS Artificial Intelligennce &amp; Machine Learning (AIML) services
 
 ## Table of Contents
-1. [Deep Dive video series](#deep_dive_series)
-2. [Full pre-recorded immersion days](#immersion_days)
-3. [AIML Business Jumpstart series](#business_jumpstart)
+1. [Deep Dive video series](#deep-dive-video-series)
+2. [Full pre-recorded immersion days](#full-pre-recorded-immersion-days)
+3. [AIML Business Jumpstart series](#aiml-business-jumpstart-series)
 4. [Demos](#demos)
 
 
