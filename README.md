@@ -70,6 +70,14 @@ AIML Business Jumpstart is a series of 1-hour trainings aiming at helping with s
 - **Identifying and Shaping Successful Intelligent Search Engagements**. [[recording](https://d2upiv8700olhh.cloudfront.net/ODS-PartnerCast-Knowledge-Portal-March2023.mp4)][[slides](https://d2upiv8700olhh.cloudfront.net/ODS-PartnerCast-Knowledge-Portal-March2023.pdf)]
 
 
+
+## re:Invent recap sessions
+AWS re:Invent is the largest AWS event where all the new advancements are announced. The following are recordings of the latest updates announced in AWS re:Invent, focusing in AI/ML. *You will need an AWS account to access the videos, under Skills Builder*. 
+
+- **re:Invent2022 recap (Amazon SageMaker)**. [[recording](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/15282/aws-partnercast-reinvent2022-aiml-recap-amazon-sagemaker-technical)][[slides](https://d2upiv8700olhh.cloudfront.net/ODS-reinvent-recap-SageMaker-Feb7-2023.pdf)]
+- **re:Invent2022 recap (AI services)**. [[recording](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/15270/aws-partnercast-reinvent-2022-announcements-ai-services-technical)][[slides](https://d2upiv8700olhh.cloudfront.net/ODS-reinvent2022-recap-AIServices-Feb9-2023.pdf)]
+
+
 ## Demos
 Recordings and walkthroughs of AI/ML AWS services for particular use-cases.
 
