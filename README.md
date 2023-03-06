@@ -6,7 +6,7 @@ Unofficial repository of training resources for the AWS Artificial Intelligennce
 2. [Deep Dive series: MLOps with Amazon SageMaker](#mlops-with-Amazon-SageMaker)
 3. [Full pre-recorded immersion days](#full-pre-recorded-immersion-days)
 4. [AIML Business Jumpstart series](#aiml-business-jumpstart-series)
-5. [re:Invent recap sessions](#re:invent-recap-sessions)
+5. [re:Invent recap sessions](#re-invent-recap-sessions)
 6. [Demos](#demos)
 
 
