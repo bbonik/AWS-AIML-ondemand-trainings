@@ -6,7 +6,7 @@ Unofficial repository of training resources for the AWS Artificial Intelligennce
 2. [Deep Dive series: MLOps with Amazon SageMaker](#mlops-with-Amazon-SageMaker)
 3. [Full pre-recorded immersion days](#full-pre-recorded-immersion-days)
 4. [AIML Business Jumpstart series](#aiml-business-jumpstart-series)
-5. [re:Invent recap sessions](#re-invent-recap-sessions)
+5. [re:Invent recap sessions](#reinvent-recap-sessions)
 6. [Demos](#demos)
 
 
@@ -72,7 +72,7 @@ AIML Business Jumpstart is a series of 1-hour trainings aiming at helping with s
 
 
 
-## re:Invent recap sessions
+## reInvent recap sessions
 AWS re:Invent is the largest AWS event where all the new advancements are announced. The following are recordings of the latest updates announced in AWS re:Invent, focusing in AI/ML. *You will need an AWS account to access the videos, under Skills Builder*. 
 
 - **re:Invent2022 recap (Amazon SageMaker)**. [[recording](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/15282/aws-partnercast-reinvent2022-aiml-recap-amazon-sagemaker-technical)][[slides](https://d2upiv8700olhh.cloudfront.net/ODS-reinvent-recap-SageMaker-Feb7-2023.pdf)]
