@@ -64,6 +64,11 @@ This is a series of full training events, focusing on specific topics, including
     - Tips & tricks
     - Customer case studies
     - Resources
+- **Intelligent Document Processing: Amazon Textract (2h)**. [[recording](https://d2upiv8700olhh.cloudfront.net/ODS-IDP-Textract(2023-06-09).mp4)][[slides](https://d2upiv8700olhh.cloudfront.net/ODS-Textract-Comprehend-IDP(2023-06).pdf)]
+    - Introduction to IDP
+    - Introduction to Amazon IDP services
+    - Deep Dive on Amazon Textract
+    - Demos and notebooks
 
 
 ## AIML Business Jumpstart series
