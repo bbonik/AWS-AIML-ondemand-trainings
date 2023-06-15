@@ -14,7 +14,7 @@ Unofficial repository of training resources for the AWS Artificial Intelligennce
 Training sessions on the AWS value proposition for Generative AI. 
 - Business session (19 April 2023) [[recording](https://amazon.webex.com/recordingservice/sites/amazon/recording/b0d3a69ec094103b9f7f005056812528/playback)]
 - Technical session (21 April 2023) [[recording](https://amazon.webex.com/recordingservice/sites/amazon/recording/090ec188c227103b9b35005056812502/playback)]
-- 2h training and demo session (14 June 2023) [[recording](https://d2upiv8700olhh.cloudfront.net/GenAI/GenAI-training(2023-06-14).mp4])
+- 2h training and demo session (14 June 2023) [[recording](https://d2upiv8700olhh.cloudfront.net/GenAI/GenAI-training(2023-06-14).mp4])]
 
 ## Deep Dive video series
 This includes 2 sets of 5 one-hour videos, diving deeper on the basic functionality and the MLOps feautes of Amazon SageMaker. *You will need an AWS account to access the videos, under Skills Builder*. 
