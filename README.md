@@ -58,7 +58,7 @@ This is a series of full training events, focusing on specific topics, including
     - Amazon SageMaker Data Wrangler
     - Training with Built-in algorithms (XGBoost)
     - Inference options (real-time endpoints, batch transform)
-- **Amazon Forecast (~4.5h)**. [[recording](https://d2upiv8700olhh.cloudfront.net/ODS-Forecast-immersion-day(2023-01).mp4)][[slides](https://d2upiv8700olhh.cloudfront.net/ODS-Forecast-immersion-day(2023-01).pdf)]
+- **Amazon Forecast (~4.5h)**. [[recording](https://d2upiv8700olhh.cloudfront.net/ODS-Forecast-immersion-day(2023-01).mp4)][[slides](https://d2upiv8700olhh.cloudfront.net/ODS-Forecast-immersion-day(2023-01)-v2.pdf)]
     - Guidance on forecasting projects
     - Introduction to Amazon Forecast
     - Deep dive on the features of Amazon Forecast
