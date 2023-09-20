@@ -71,7 +71,7 @@ This is a series of full training events, focusing on specific topics, including
     - Introduction to Amazon IDP services
     - Deep Dive on Amazon Textract
     - Demos and notebooks
-- **Amazon Rekognition & Identity Verification (4h)**. [[recording](https://d2upiv8700olhh.cloudfront.net/immersion-days/ODS-Amazon-Rekognition-immersion-day(20-9-2023).mp4)][[slides](https://d2upiv8700olhh.cloudfront.net/immersion-days/ODS-Amazon-Rekognition-immersion-day(20-9-2023).pdf)]
+- **Amazon Rekognition & Identity Verification (4h)**. [[recording](https://d2upiv8700olhh.cloudfront.net/immersion-days/ODS-Amazon-Rekognition-immersion-day(20-9-2023).mov)][[slides](https://d2upiv8700olhh.cloudfront.net/immersion-days/ODS-Amazon-Rekognition-immersion-day(20-9-2023).pdf)]
     - Introduction to Amazon Rekognition
     - Deep Dive on Amazon Rekognition APIs
     - Deep Dive on Amazon Rekognition Custom Labels
