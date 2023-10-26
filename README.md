@@ -19,19 +19,19 @@ Training sessions on the AWS value proposition for Generative AI.
 - 3h training and demo sessions (19 October 2023) [[recording](https://d2upiv8700olhh.cloudfront.net/GenAI/GenAI-training(October2023).mp4)][[slides](https://d2upiv8700olhh.cloudfront.net/GenAI/GenAI-training(October2023).pdf)]
     - Intro to GenAI: 00:02
     - Basics of Foundation Models: 00:14
-Use-cases: 00:33
-Prompt Engineering: 00:38
-The AWS GenAI value proposition: 00:52
-Amazon SageMaker Jumpstart: 00:59
-Amazon Bedrock: 01:15
-AWS custom silicon for GenAI: 01:54
-Amazon CodeWhisperer: 01:55
-Retrieval Augmented Generation (RAG): 01:58
-Amazon SageMaker Studio Jumpstart walkthrough : 02:15
-Deploying and using Flan T5 XL: 02:25
-Deploying and using Stable Diffusion 2.1: 02:41
-Example Finetunning Stable Diffusion: 02:47
-Example Domain Adaptation Finetuning (GPT-J 6B): 02:49
+    - Use-cases: 00:33
+    - Prompt Engineering: 00:38
+    - The AWS GenAI value proposition: 00:52
+    - Amazon SageMaker Jumpstart: 00:59
+    - Amazon Bedrock: 01:15
+    - AWS custom silicon for GenAI: 01:54
+    - Amazon CodeWhisperer: 01:55
+    - Retrieval Augmented Generation (RAG): 01:58
+    - Amazon SageMaker Studio Jumpstart walkthrough : 02:15
+    - Deploying and using Flan T5 XL: 02:25
+    - Deploying and using Stable Diffusion 2.1: 02:41
+    - Example Finetunning Stable Diffusion: 02:47
+    - Example Domain Adaptation Finetuning (GPT-J 6B): 02:49
 
 ## Deep Dive video series
 This includes 2 sets of 5 one-hour videos, diving deeper on the basic functionality and the MLOps feautes of Amazon SageMaker. **Please reachout to me at vonikakv@amazon.com and I will provide you with personalized tokens in order to access the following on-demand training videos**. 
