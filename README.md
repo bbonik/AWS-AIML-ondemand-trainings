@@ -115,6 +115,7 @@ AWS re:Invent is the largest AWS event where all the new advancements are announ
 - **2023 Q1 AIML service updates**. [[recording](https://amazon.webex.com/webappng/sites/amazon/recording/e6d76185bbeb103baafa00505681a350/playback)]
 - **2023 Q2 AIML service updates**. [[recording](https://amazon.webex.com/webappng/sites/amazon/recording/7a92d23d0370103c926300505681f793/playback)]
 - **2023 Q3 AIML service updates**. [[recording](https://amazon.webex.com/recordingservice/sites/amazon/recording/db50e5dd4aea103ca76d86c87d5b8840/playback)][[slides](https://d2upiv8700olhh.cloudfront.net/202310_Q3_AIML_updates.pdf)]
+- **re:Invent2023 recap (GenAI & AIML)**. [[recording & slides](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/18651/aws-partnercast-reinvent-recap-aws-aiml-services-technical)]
 
 ## Demos
 Recordings and walkthroughs of AI/ML AWS services for particular use-cases.
