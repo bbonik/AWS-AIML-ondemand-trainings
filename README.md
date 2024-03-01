@@ -103,7 +103,8 @@ AIML Business Jumpstart is a series of 1-hour trainings aiming at helping with s
 - **How to Modernize & Automate Business Workflows With Intelligent Document Processing**. [[recording](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/13810/aws-partnercast-how-to-modernize-automate-customers-business-workflows-with-intelligent-document-processing-business)][[slides](https://d2upiv8700olhh.cloudfront.net/ODS-PartnerCast-IDP-Aug2022.pdf)]
 - **How to structure and scale Machine Learning Operations (MLOps) engagements (Nov2022)**. [[recording](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/14483/aws-partnercast-how-to-structure-and-scale-your-mlops-engagements-business)][[slides](https://d2upiv8700olhh.cloudfront.net/ODS-PartnerCast_MLOps_18Oct_2022.pdf)]
 - **How to structure and scale Machine Learning Operations (MLOps) engagements (March2023)**. [[recording](https://d2upiv8700olhh.cloudfront.net/ODS-PartnerCast-MLOps(2023-03-24).mp4)][[slides](https://d2upiv8700olhh.cloudfront.net/ODS-PartnerCast-MLOps(2023-03-24).pdf)]
-- **Identifying and Shaping Successful Intelligent Search Engagements**. [[recording](https://d2upiv8700olhh.cloudfront.net/ODS-PartnerCast-Knowledge-Portal-March2023.mp4)][[slides](https://d2upiv8700olhh.cloudfront.net/ODS-PartnerCast-Knowledge-Portal-March2023.pdf)]
+- **Identifying and Shaping Successful Intelligent Search Engagements (February2023)**. [[recording](https://d2upiv8700olhh.cloudfront.net/ODS-PartnerCast-Knowledge-Portal-March2023.mp4)][[slides](https://d2upiv8700olhh.cloudfront.net/ODS-PartnerCast-Knowledge-Portal-March2023.pdf)]
+- **Maturing Engagement for Generative AI: Maximizing Benefits, Minimizing Risks (March2024)**. [[recording](https://amazon.webex.com/amazon/ldr.php?RCID=b767f1ae43bdfa8b31ab44517a775cba)][[slides](https://d2upiv8700olhh.cloudfront.net/GenAI/AIML-Business-Jumpstart-GenAI-success(2024-03-01).pdf)]
 
 
 
