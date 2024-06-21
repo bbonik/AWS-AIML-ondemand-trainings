@@ -12,10 +12,17 @@ Unofficial repository of training resources for the AWS Artificial Intelligennce
 
 ## Generative AI
 Training sessions on the AWS value proposition for Generative AI. 
-- Business session (19 April 2023) [[recording](https://amazon.webex.com/recordingservice/sites/amazon/recording/b0d3a69ec094103b9f7f005056812528/playback)]
-- Technical session (21 April 2023) [[recording](https://amazon.webex.com/recordingservice/sites/amazon/recording/090ec188c227103b9b35005056812502/playback)]
-- 2h training and demo session (20 July 2023) [[recording](https://d2upiv8700olhh.cloudfront.net/GenAI/GenAI-training(2023.07.20).mp4)]
-- 4h training and demo sessions (3 August 2023) [[recording](https://amazon.webex.com/recordingservice/sites/amazon/recording/6696faf013d8103cbdbf0e599497730d/playback)]
+- 7h training on Retrieval Augmented Generation (19 June 2024) [[recording](https://d2upiv8700olhh.cloudfront.net/GenAI/GenAI-PowerUp-1-RAG-ASEAN.mp4)][[slides](https://d2upiv8700olhh.cloudfront.net/GenAI/GenAI-PowerUp-1-RAG-ASEAN.pdf)]
+    - Business training & AWS GenAI value proposition : 00:04:24
+    - RAG basics: 00:48:00
+    - RAG with Amazon Q Business: 01:14:00
+    - RAG with Amazon Bedrock Knowledge Bases: 01:31:00
+    - DIY RAG with Amazon SageMaker & Amazon Bedrock: 02:03:00
+    - Comparison of RAG implementations: 02:20:35
+    - Labs walkthrough: 03:48:30
+    - Advanced RAG techniques: 06:02:30
+    - RAG evaluation: 06:32:30
+    - Security considerations: 06:48:00
 - 3h training and demo sessions (19 October 2023) [[recording](https://d2upiv8700olhh.cloudfront.net/GenAI/GenAI-training(October2023).mp4)][[slides](https://d2upiv8700olhh.cloudfront.net/GenAI/GenAI-training(October2023).pdf)]
     - Intro to GenAI: 00:02:00
     - Basics of Foundation Models: 00:14:00
