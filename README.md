@@ -12,7 +12,7 @@ Unofficial repository of training resources for the AWS Artificial Intelligennce
 
 ## Generative AI
 Training sessions on the AWS value proposition for Generative AI. 
-- 7h training on Retrieval Augmented Generation (19 June 2024) [[recording](https://d2upiv8700olhh.cloudfront.net/GenAI/GenAI-PowerUp-1-RAG-ASEAN.mp4)][[slides](https://d2upiv8700olhh.cloudfront.net/GenAI/GenAI-PowerUp-1-RAG-ASEAN.pdf)]
+- 7h training on **Retrieval Augmented Generation** (19 June 2024) [[recording](https://d2upiv8700olhh.cloudfront.net/GenAI/GenAI-PowerUp-1-RAG-ASEAN.mp4)][[slides](https://d2upiv8700olhh.cloudfront.net/GenAI/GenAI-PowerUp-1-RAG-ASEAN.pdf)]
     - Business training & AWS GenAI value proposition : 00:04:24
     - RAG basics: 00:48:00
     - RAG with Amazon Q Business: 01:14:00
