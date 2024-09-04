@@ -12,17 +12,24 @@ Unofficial repository of training resources for the AWS Artificial Intelligennce
 
 ## Generative AI
 Training sessions on the AWS value proposition for Generative AI. 
-- 7h training on **Retrieval Augmented Generation** (19 June 2024) [[recording](https://d2upiv8700olhh.cloudfront.net/GenAI/GenAI-PowerUp-1-RAG-ASEAN.mp4)][[slides](https://d2upiv8700olhh.cloudfront.net/GenAI/GenAI-PowerUp-1-RAG-ASEAN.pdf)]
-    - Business training & AWS GenAI value proposition : 00:04:24
-    - RAG basics: 00:48:00
-    - RAG with Amazon Q Business: 01:14:00
-    - RAG with Amazon Bedrock Knowledge Bases: 01:31:00
-    - DIY RAG with Amazon SageMaker & Amazon Bedrock: 02:03:00
-    - Comparison of RAG implementations: 02:20:35
-    - Labs walkthrough: 03:48:30
-    - Advanced RAG techniques: 06:02:30
-    - RAG evaluation: 06:32:30
-    - Security considerations: 06:48:00
+[GenAI PowerUp day 2] 7h training on **MLOps and Security for GenAI** (3 September 2024) [[recording](https://d2upiv8700olhh.cloudfront.net/GenAI/GenAI-PowerUp-day2(MLOps-Security).mp4)][[slides](https://d2upiv8700olhh.cloudfront.net/GenAI/GenAI-PowerUp-day2(MLOps-Security).pdf)]
+    - A framework for Operationalizing GenAI applications (00:06:00)
+    - MLOps for GenAI (01:25:00)
+    - DEMO: Amazon Bedrock Prompt Management (02:23:15)
+    - DEMO: Amazon Bedrock Prompt Flows (02:32:00)
+    - Labs (03:41:40)
+    - Security for GenAI (05:35:00)
+[GenAI PowerUp day 1] 7h training on **Retrieval Augmented Generation** (19 June 2024) [[recording](https://d2upiv8700olhh.cloudfront.net/GenAI/GenAI-PowerUp-1-RAG-ASEAN.mp4)][[slides](https://d2upiv8700olhh.cloudfront.net/GenAI/GenAI-PowerUp-1-RAG-ASEAN.pdf)]
+    - Business training & AWS GenAI value proposition (00:04:24)
+    - RAG basics (00:48:00)
+    - RAG with Amazon Q Business (01:14:00)
+    - RAG with Amazon Bedrock Knowledge Bases (01:31:00)
+    - DIY RAG with Amazon SageMaker & Amazon Bedrock (02:03:00)
+    - Comparison of RAG implementations (02:20:35)
+    - Labs walkthrough (03:48:30)
+    - Advanced RAG techniques (06:02:30)
+    - RAG evaluation (06:32:30)
+    - Security considerations (06:48:00)
 - 3h training and demo sessions (19 October 2023) [[recording](https://d2upiv8700olhh.cloudfront.net/GenAI/GenAI-training(October2023).mp4)][[slides](https://d2upiv8700olhh.cloudfront.net/GenAI/GenAI-training(October2023).pdf)]
     - Intro to GenAI: 00:02:00
     - Basics of Foundation Models: 00:14:00
