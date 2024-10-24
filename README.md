@@ -11,7 +11,10 @@ Unofficial repository of training resources for the AWS Artificial Intelligennce
 6. [Demos](#demos)
 
 ## Generative AI
-Training sessions on the AWS value proposition for Generative AI. 
+- **GenAI L200**: 2h training on the latest AWS GenAI features (24 October 2024) [[recording](https://d2upiv8700olhh.cloudfront.net/GenAI/GenAI-L200-Oct2024.mp4)][[slides](https://d2upiv8700olhh.cloudfront.net/GenAI/GenAI-L200-Oct2024.pdf)]
+    - Business track (00:00:00)
+    - Technical track (SageMaker, Bedrock, AmazonQ) (00:28:00)
+    - Q&A (01:32:00)
 - **GenAI PowerUp day 2**: 7h training on **MLOps and Security for GenAI** (3 September 2024) [[recording](https://d2upiv8700olhh.cloudfront.net/GenAI/GenAI-PowerUp-day2(MLOps-Security).mp4)][[slides](https://d2upiv8700olhh.cloudfront.net/GenAI/GenAI-PowerUp-day2(MLOps-Security).pdf)]
     - A framework for Operationalizing GenAI applications (00:06:00)
     - MLOps for GenAI (01:25:00)
