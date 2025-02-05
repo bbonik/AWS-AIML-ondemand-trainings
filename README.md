@@ -128,6 +128,7 @@ AIML Business Jumpstart is a series of 1-hour trainings aiming at helping with s
 ## Service recap sessions
 AWS re:Invent is the largest AWS event where all the new advancements are announced. The following are recordings of the latest updates announced in AWS re:Invent, focusing in AI/ML, as well as quarterly updates on the AWS AIML stack. *You will need an AWS account to access some of the videos, under Skills Builder*. 
 
+- **2024 Q4 AIML + GenAI service updates (re:Invent2024 recap)**. [[recording](https://amazon.webex.com/webappng/sites/amazon/recording/412e7b85c59b103dbf5faed4481fe1f9/playback)][[slides](https://d2upiv8700olhh.cloudfront.net/service-updates/Q42024(reInvent)-AIML-Service-Updates.pdf)]
 - **2024 Q3 AIML + GenAI service updates**. [[recording](https://d2upiv8700olhh.cloudfront.net/whats-new-series/AWS_aiml_updates_Q3_2024.mp4)][[slides](https://d2upiv8700olhh.cloudfront.net/whats-new-series/AWS_aiml_updates_Q3_2024.pdf)]
 - **2024 H1 AIML + GenAI service updates**. [[recording](https://d2upiv8700olhh.cloudfront.net/whats-new-series/AWS_aiml_updates_H1_2024.mp4)][[slides](https://d2upiv8700olhh.cloudfront.net/whats-new-series/AWS_aiml_updates_H1_2024.pdf)]
 - **re:Invent2023 recap (GenAI & AIML)**. [[recording](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/18651/aws-partnercast-reinvent-recap-aws-aiml-services-technical)][[slides](https://explore.skillbuilder.aws/learn/course/18651/play/104781/reinvent-recap-aws-aiml-services)] (you need to be logged in SkillsBuilder)
