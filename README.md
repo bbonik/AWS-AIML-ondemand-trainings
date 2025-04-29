@@ -7,7 +7,7 @@ Unofficial repository of training resources for the AWS Artificial Intelligennce
 2. [Deep Dive series: MLOps with Amazon SageMaker](#mlops-with-Amazon-SageMaker)
 3. [Full pre-recorded immersion days](#full-pre-recorded-immersion-days)
 4. [AIML Business Jumpstart series](#aiml-business-jumpstart-series)
-5. [Service Updates sessions](#service-update-sessions)
+5. [Service Updates sessions](#service-updates-sessions)
 6. [Demos](#demos)
 
 ## Generative AI
@@ -125,7 +125,7 @@ AIML Business Jumpstart is a series of 1-hour trainings aiming at helping with s
 
 
 
-## Service update sessions
+## Service updates sessions
 AWS re:Invent is the largest AWS event where all the new advancements are announced. The following are recordings of the latest updates announced in AWS re:Invent, focusing in AI/ML, as well as quarterly updates on the AWS AIML stack. *You will need an AWS account to access some of the videos, under Skills Builder*. 
 
 - **2025 Q1 AIML + GenAI service updates**. [[recording](https://amazon.webex.com/webappng/sites/amazon/recording/1d44f4f206d4103e9fdffad02c3d4d0f/playback)][[slides](https://d2upiv8700olhh.cloudfront.net/service-updates/2025Q1-AIML-service-updates.pdf)]
